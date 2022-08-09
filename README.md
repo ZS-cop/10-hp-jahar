@@ -1,2 +1,5 @@
-# 10-hp-jahar
-# 10-hp-jahar
+THIS THE THE WEBSITE CALLED 10 HP JAHAR CODE
+
+WEBSITE LINK - https://10-hp-jahar.netlify.app/
+
+THIS WEBSITE IS FOR PIYUSH
