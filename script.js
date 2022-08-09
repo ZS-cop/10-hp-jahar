@@ -3,8 +3,8 @@ let ins = document.getElementById("link");
 
 window.addEventListener("scroll" , ()=>{
          let val = window.scrollY;
-         text.style.marginLeft = `${val}px`;
-         ins.style.marginLeft = `${val}px`;
+         text.style.top = `${-val}px`;
+         ins.style.left = `${val}px`;
 });
 
 let type = new Typed("#firtext" , {
