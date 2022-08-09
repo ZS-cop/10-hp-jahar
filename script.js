@@ -4,7 +4,7 @@ let ins = document.getElementById("link");
 window.addEventListener("scroll" , ()=>{
          let val = window.scrollY;
          text.style.top = `${-val}px`;
-         ins.style.left = `${val}px`;
+         ins.style.left = `${-val}px`;
 });
 
 let type = new Typed("#firtext" , {
