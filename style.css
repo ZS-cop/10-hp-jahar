@@ -41,6 +41,7 @@ body
          padding: 1.5rem;
          border-radius: 40px;
          text-decoration: none;
+         font-weight: bolder;
 }
 #home a:hover{
          font-family: Arial, Helvetica, sans-serif;
